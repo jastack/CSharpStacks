@@ -1,0 +1,7 @@
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\obj\Debug\Stacks.csprojResolveAssemblyReference.cache
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\JStack\Desktop\c_sharp_practice\Stacks\Stacks\obj\Debug\Stacks.pdb
